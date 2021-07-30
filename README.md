@@ -5,7 +5,7 @@
 <a href="#"><img title="D-BOT" src="https://img.shields.io/badge/D-BOT-green?colorA=%23ff0000&colorB=%23017e40&style=for-the-badge"></a>
 </p>
   <p align="center">
-<a href="https://github.com/ameer-kallumthodi"><img title="Author" src="https://img.shields.io/badge/Author-ameer-kallumthodi/D-BOT?color=f7df1e&style=for-the-badge&logo=whatsapp"></a>
+<a href="https://github.com/D-Bot-127"><img title="Author" src="https://img.shields.io/badge/Author-D-Bot-127/D-BOT?color=f7df1e&style=for-the-badge&logo=whatsapp"></a>
 </p>
 </div>
 <p align="center">
